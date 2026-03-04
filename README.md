@@ -66,3 +66,9 @@ If you use this repo in your work, please cite:
       primaryClass={cs.RO}
 }
 ```
+
+
+## debug
+```bash  
+tensorboard --logdir ./ppo_panda_tensorboard/
+```
